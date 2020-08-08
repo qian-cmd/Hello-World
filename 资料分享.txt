@@ -1,0 +1,20 @@
+1.0 视频资料：
+	http://yun.itheima.com/course/c135.html  传智的官网的视频
+	
+	https://www.bilibili.com/video/BV12J411m7MG?from=search&seid=13000647614126393441
+		vue 版本的音乐播放器
+			建议大家看这个视频时说： 花姐牛逼！！！！（胡凌皓）
+	https://www.bilibili.com/video/BV1eE41187ny?from=search&seid=13000647614126393441
+		vue 的详细内容
+	https://www.bilibili.com/video/BV1nE41117BQ?from=search&seid=254581345617985356
+		小程序的详细内容 
+			建议大家看这个视频时说： 少爷牛逼！！！！（万绍业）
+    注意点：
+		看上述视频时，默认你们已经学完以下内容：
+			html & css & js & jq & ajax & nodejs
+
+2.0 面试题;
+	https://blog.poetries.top/FE-Interview-Questions/docs/base.html
+		我见过的最大，最全的面试资料
+	https://juejin.im/post/5d59f2a451882549be53b170
+		针对于 vue 的资料
